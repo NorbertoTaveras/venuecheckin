@@ -43,6 +43,3 @@ object VenueData {
         )
     )
 }
-/*
-UserLocation.kt, LocationSource.kt, AndroidLocationSource.kt, VenueContainment.kt
- */
